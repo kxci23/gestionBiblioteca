@@ -1,0 +1,220 @@
+C:\Users\Usuario\Desktop\GestionBibliotecaEs\GestionBiblioteca1\GestionBiblioteca1\GestionBiblioteca\obj\Debug\net8.0-windows\GestionBibliotecaES.csproj.AssemblyReference.cache
+C:\Users\Usuario\Desktop\GestionBibliotecaEs\GestionBiblioteca1\GestionBiblioteca1\GestionBiblioteca\obj\Debug\net8.0-windows\GestionBiblioteca.Form1.resources
+C:\Users\Usuario\Desktop\GestionBibliotecaEs\GestionBiblioteca1\GestionBiblioteca1\GestionBiblioteca\obj\Debug\net8.0-windows\GestionBiblioteca.Pantalla_Admin.resources
+C:\Users\Usuario\Desktop\GestionBibliotecaEs\GestionBiblioteca1\GestionBiblioteca1\GestionBiblioteca\obj\Debug\net8.0-windows\GestionBiblioteca.Pantalla_Bibliotecario.resources
+C:\Users\Usuario\Desktop\GestionBibliotecaEs\GestionBiblioteca1\GestionBiblioteca1\GestionBiblioteca\obj\Debug\net8.0-windows\GestionBiblioteca.Pantalla_Estudiante.resources
+C:\Users\Usuario\Desktop\GestionBibliotecaEs\GestionBiblioteca1\GestionBiblioteca1\GestionBiblioteca\obj\Debug\net8.0-windows\GestionBibliotecaES.csproj.GenerateResource.cache
+C:\Users\Usuario\Desktop\GestionBibliotecaEs\GestionBiblioteca1\GestionBiblioteca1\GestionBiblioteca\obj\Debug\net8.0-windows\GestionBibliotecaES.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Usuario\Desktop\GestionBibliotecaEs\GestionBiblioteca1\GestionBiblioteca1\GestionBiblioteca\obj\Debug\net8.0-windows\GestionBibliotecaES.AssemblyInfoInputs.cache
+C:\Users\Usuario\Desktop\GestionBibliotecaEs\GestionBiblioteca1\GestionBiblioteca1\GestionBiblioteca\obj\Debug\net8.0-windows\GestionBibliotecaES.AssemblyInfo.cs
+C:\Users\Usuario\Desktop\GestionBibliotecaEs\GestionBiblioteca1\GestionBiblioteca1\GestionBiblioteca\obj\Debug\net8.0-windows\GestionBibliotecaES.csproj.CoreCompileInputs.cache
+C:\Users\Usuario\Desktop\GestionBibliotecaEs\GestionBiblioteca1\GestionBiblioteca1\GestionBiblioteca\bin\Debug\net8.0-windows\GestionBibliotecaES.exe
+C:\Users\Usuario\Desktop\GestionBibliotecaEs\GestionBiblioteca1\GestionBiblioteca1\GestionBiblioteca\bin\Debug\net8.0-windows\GestionBibliotecaES.deps.json
+C:\Users\Usuario\Desktop\GestionBibliotecaEs\GestionBiblioteca1\GestionBiblioteca1\GestionBiblioteca\bin\Debug\net8.0-windows\GestionBibliotecaES.runtimeconfig.json
+C:\Users\Usuario\Desktop\GestionBibliotecaEs\GestionBiblioteca1\GestionBiblioteca1\GestionBiblioteca\bin\Debug\net8.0-windows\GestionBibliotecaES.dll
+C:\Users\Usuario\Desktop\GestionBibliotecaEs\GestionBiblioteca1\GestionBiblioteca1\GestionBiblioteca\bin\Debug\net8.0-windows\GestionBibliotecaES.pdb
+C:\Users\Usuario\Desktop\GestionBibliotecaEs\GestionBiblioteca1\GestionBiblioteca1\GestionBiblioteca\bin\Debug\net8.0-windows\BouncyCastle.Cryptography.dll
+C:\Users\Usuario\Desktop\GestionBibliotecaEs\GestionBiblioteca1\GestionBiblioteca1\GestionBiblioteca\bin\Debug\net8.0-windows\DnsClient.dll
+C:\Users\Usuario\Desktop\GestionBibliotecaEs\GestionBiblioteca1\GestionBiblioteca1\GestionBiblioteca\bin\Debug\net8.0-windows\Google.Protobuf.dll
+C:\Users\Usuario\Desktop\GestionBibliotecaEs\GestionBiblioteca1\GestionBiblioteca1\GestionBiblioteca\bin\Debug\net8.0-windows\K4os.Compression.LZ4.dll
+C:\Users\Usuario\Desktop\GestionBibliotecaEs\GestionBiblioteca1\GestionBiblioteca1\GestionBiblioteca\bin\Debug\net8.0-windows\K4os.Compression.LZ4.Streams.dll
+C:\Users\Usuario\Desktop\GestionBibliotecaEs\GestionBiblioteca1\GestionBiblioteca1\GestionBiblioteca\bin\Debug\net8.0-windows\K4os.Hash.xxHash.dll
+C:\Users\Usuario\Desktop\GestionBibliotecaEs\GestionBiblioteca1\GestionBiblioteca1\GestionBiblioteca\bin\Debug\net8.0-windows\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Users\Usuario\Desktop\GestionBibliotecaEs\GestionBiblioteca1\GestionBiblioteca1\GestionBiblioteca\bin\Debug\net8.0-windows\MongoDB.Bson.dll
+C:\Users\Usuario\Desktop\GestionBibliotecaEs\GestionBiblioteca1\GestionBiblioteca1\GestionBiblioteca\bin\Debug\net8.0-windows\MongoDB.Driver.dll
+C:\Users\Usuario\Desktop\GestionBibliotecaEs\GestionBiblioteca1\GestionBiblioteca1\GestionBiblioteca\bin\Debug\net8.0-windows\MySql.Data.dll
+C:\Users\Usuario\Desktop\GestionBibliotecaEs\GestionBiblioteca1\GestionBiblioteca1\GestionBiblioteca\bin\Debug\net8.0-windows\SharpCompress.dll
+C:\Users\Usuario\Desktop\GestionBibliotecaEs\GestionBiblioteca1\GestionBiblioteca1\GestionBiblioteca\bin\Debug\net8.0-windows\Snappier.dll
+C:\Users\Usuario\Desktop\GestionBibliotecaEs\GestionBiblioteca1\GestionBiblioteca1\GestionBiblioteca\bin\Debug\net8.0-windows\System.IO.Pipelines.dll
+C:\Users\Usuario\Desktop\GestionBibliotecaEs\GestionBiblioteca1\GestionBiblioteca1\GestionBiblioteca\bin\Debug\net8.0-windows\System.Text.Encodings.Web.dll
+C:\Users\Usuario\Desktop\GestionBibliotecaEs\GestionBiblioteca1\GestionBiblioteca1\GestionBiblioteca\bin\Debug\net8.0-windows\System.Text.Json.dll
+C:\Users\Usuario\Desktop\GestionBibliotecaEs\GestionBiblioteca1\GestionBiblioteca1\GestionBiblioteca\bin\Debug\net8.0-windows\ZstdSharp.dll
+C:\Users\Usuario\Desktop\GestionBibliotecaEs\GestionBiblioteca1\GestionBiblioteca1\GestionBiblioteca\bin\Debug\net8.0-windows\runtimes\win-x64\native\comerr64.dll
+C:\Users\Usuario\Desktop\GestionBibliotecaEs\GestionBiblioteca1\GestionBiblioteca1\GestionBiblioteca\bin\Debug\net8.0-windows\runtimes\win-x64\native\gssapi64.dll
+C:\Users\Usuario\Desktop\GestionBibliotecaEs\GestionBiblioteca1\GestionBiblioteca1\GestionBiblioteca\bin\Debug\net8.0-windows\runtimes\win-x64\native\k5sprt64.dll
+C:\Users\Usuario\Desktop\GestionBibliotecaEs\GestionBiblioteca1\GestionBiblioteca1\GestionBiblioteca\bin\Debug\net8.0-windows\runtimes\win-x64\native\krb5_64.dll
+C:\Users\Usuario\Desktop\GestionBibliotecaEs\GestionBiblioteca1\GestionBiblioteca1\GestionBiblioteca\bin\Debug\net8.0-windows\runtimes\win-x64\native\krbcc64.dll
+C:\Users\Usuario\Desktop\GestionBibliotecaEs\GestionBiblioteca1\GestionBiblioteca1\GestionBiblioteca\bin\Debug\net8.0-windows\runtimes\browser\lib\net8.0\System.Text.Encodings.Web.dll
+C:\Users\Usuario\Desktop\GestionBibliotecaEs\GestionBiblioteca1\GestionBiblioteca1\GestionBiblioteca\obj\Debug\net8.0-windows\GestionB.D3E00529.Up2Date
+C:\Users\Usuario\Desktop\GestionBibliotecaEs\GestionBiblioteca1\GestionBiblioteca1\GestionBiblioteca\obj\Debug\net8.0-windows\GestionBibliotecaES.dll
+C:\Users\Usuario\Desktop\GestionBibliotecaEs\GestionBiblioteca1\GestionBiblioteca1\GestionBiblioteca\obj\Debug\net8.0-windows\refint\GestionBibliotecaES.dll
+C:\Users\Usuario\Desktop\GestionBibliotecaEs\GestionBiblioteca1\GestionBiblioteca1\GestionBiblioteca\obj\Debug\net8.0-windows\GestionBibliotecaES.pdb
+C:\Users\Usuario\Desktop\GestionBibliotecaEs\GestionBiblioteca1\GestionBiblioteca1\GestionBiblioteca\obj\Debug\net8.0-windows\GestionBibliotecaES.genruntimeconfig.cache
+C:\Users\Usuario\Desktop\GestionBibliotecaEs\GestionBiblioteca1\GestionBiblioteca1\GestionBiblioteca\obj\Debug\net8.0-windows\ref\GestionBibliotecaES.dll
+C:\Users\Usuario\Desktop\GestionBibliotecaEs\GestionBiblioteca1\GestionBiblioteca1\GestionBiblioteca\obj\Debug\net8.0-windows\GestionBibliotecaES.Properties.Resources.resources
+C:\Users\MSI\source\repos\GestionBibliotecaEs\GestionBibliotecaEs\GestionBiblioteca1\GestionBiblioteca1\GestionBiblioteca\bin\Debug\net8.0-windows\GestionBibliotecaES.exe
+C:\Users\MSI\source\repos\GestionBibliotecaEs\GestionBibliotecaEs\GestionBiblioteca1\GestionBiblioteca1\GestionBiblioteca\bin\Debug\net8.0-windows\GestionBibliotecaES.deps.json
+C:\Users\MSI\source\repos\GestionBibliotecaEs\GestionBibliotecaEs\GestionBiblioteca1\GestionBiblioteca1\GestionBiblioteca\bin\Debug\net8.0-windows\GestionBibliotecaES.runtimeconfig.json
+C:\Users\MSI\source\repos\GestionBibliotecaEs\GestionBibliotecaEs\GestionBiblioteca1\GestionBiblioteca1\GestionBiblioteca\bin\Debug\net8.0-windows\GestionBibliotecaES.dll
+C:\Users\MSI\source\repos\GestionBibliotecaEs\GestionBibliotecaEs\GestionBiblioteca1\GestionBiblioteca1\GestionBiblioteca\bin\Debug\net8.0-windows\GestionBibliotecaES.pdb
+C:\Users\MSI\source\repos\GestionBibliotecaEs\GestionBibliotecaEs\GestionBiblioteca1\GestionBiblioteca1\GestionBiblioteca\bin\Debug\net8.0-windows\BouncyCastle.Cryptography.dll
+C:\Users\MSI\source\repos\GestionBibliotecaEs\GestionBibliotecaEs\GestionBiblioteca1\GestionBiblioteca1\GestionBiblioteca\bin\Debug\net8.0-windows\DnsClient.dll
+C:\Users\MSI\source\repos\GestionBibliotecaEs\GestionBibliotecaEs\GestionBiblioteca1\GestionBiblioteca1\GestionBiblioteca\bin\Debug\net8.0-windows\Google.Protobuf.dll
+C:\Users\MSI\source\repos\GestionBibliotecaEs\GestionBibliotecaEs\GestionBiblioteca1\GestionBiblioteca1\GestionBiblioteca\bin\Debug\net8.0-windows\K4os.Compression.LZ4.dll
+C:\Users\MSI\source\repos\GestionBibliotecaEs\GestionBibliotecaEs\GestionBiblioteca1\GestionBiblioteca1\GestionBiblioteca\bin\Debug\net8.0-windows\K4os.Compression.LZ4.Streams.dll
+C:\Users\MSI\source\repos\GestionBibliotecaEs\GestionBibliotecaEs\GestionBiblioteca1\GestionBiblioteca1\GestionBiblioteca\bin\Debug\net8.0-windows\K4os.Hash.xxHash.dll
+C:\Users\MSI\source\repos\GestionBibliotecaEs\GestionBibliotecaEs\GestionBiblioteca1\GestionBiblioteca1\GestionBiblioteca\bin\Debug\net8.0-windows\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Users\MSI\source\repos\GestionBibliotecaEs\GestionBibliotecaEs\GestionBiblioteca1\GestionBiblioteca1\GestionBiblioteca\bin\Debug\net8.0-windows\MongoDB.Bson.dll
+C:\Users\MSI\source\repos\GestionBibliotecaEs\GestionBibliotecaEs\GestionBiblioteca1\GestionBiblioteca1\GestionBiblioteca\bin\Debug\net8.0-windows\MongoDB.Driver.dll
+C:\Users\MSI\source\repos\GestionBibliotecaEs\GestionBibliotecaEs\GestionBiblioteca1\GestionBiblioteca1\GestionBiblioteca\bin\Debug\net8.0-windows\MySql.Data.dll
+C:\Users\MSI\source\repos\GestionBibliotecaEs\GestionBibliotecaEs\GestionBiblioteca1\GestionBiblioteca1\GestionBiblioteca\bin\Debug\net8.0-windows\SharpCompress.dll
+C:\Users\MSI\source\repos\GestionBibliotecaEs\GestionBibliotecaEs\GestionBiblioteca1\GestionBiblioteca1\GestionBiblioteca\bin\Debug\net8.0-windows\Snappier.dll
+C:\Users\MSI\source\repos\GestionBibliotecaEs\GestionBibliotecaEs\GestionBiblioteca1\GestionBiblioteca1\GestionBiblioteca\bin\Debug\net8.0-windows\System.IO.Pipelines.dll
+C:\Users\MSI\source\repos\GestionBibliotecaEs\GestionBibliotecaEs\GestionBiblioteca1\GestionBiblioteca1\GestionBiblioteca\bin\Debug\net8.0-windows\System.Text.Encodings.Web.dll
+C:\Users\MSI\source\repos\GestionBibliotecaEs\GestionBibliotecaEs\GestionBiblioteca1\GestionBiblioteca1\GestionBiblioteca\bin\Debug\net8.0-windows\System.Text.Json.dll
+C:\Users\MSI\source\repos\GestionBibliotecaEs\GestionBibliotecaEs\GestionBiblioteca1\GestionBiblioteca1\GestionBiblioteca\bin\Debug\net8.0-windows\ZstdSharp.dll
+C:\Users\MSI\source\repos\GestionBibliotecaEs\GestionBibliotecaEs\GestionBiblioteca1\GestionBiblioteca1\GestionBiblioteca\bin\Debug\net8.0-windows\runtimes\win-x64\native\comerr64.dll
+C:\Users\MSI\source\repos\GestionBibliotecaEs\GestionBibliotecaEs\GestionBiblioteca1\GestionBiblioteca1\GestionBiblioteca\bin\Debug\net8.0-windows\runtimes\win-x64\native\gssapi64.dll
+C:\Users\MSI\source\repos\GestionBibliotecaEs\GestionBibliotecaEs\GestionBiblioteca1\GestionBiblioteca1\GestionBiblioteca\bin\Debug\net8.0-windows\runtimes\win-x64\native\k5sprt64.dll
+C:\Users\MSI\source\repos\GestionBibliotecaEs\GestionBibliotecaEs\GestionBiblioteca1\GestionBiblioteca1\GestionBiblioteca\bin\Debug\net8.0-windows\runtimes\win-x64\native\krb5_64.dll
+C:\Users\MSI\source\repos\GestionBibliotecaEs\GestionBibliotecaEs\GestionBiblioteca1\GestionBiblioteca1\GestionBiblioteca\bin\Debug\net8.0-windows\runtimes\win-x64\native\krbcc64.dll
+C:\Users\MSI\source\repos\GestionBibliotecaEs\GestionBibliotecaEs\GestionBiblioteca1\GestionBiblioteca1\GestionBiblioteca\bin\Debug\net8.0-windows\runtimes\browser\lib\net8.0\System.Text.Encodings.Web.dll
+C:\Users\MSI\source\repos\GestionBibliotecaEs\GestionBibliotecaEs\GestionBiblioteca1\GestionBiblioteca1\GestionBiblioteca\obj\Debug\net8.0-windows\GestionBibliotecaES.csproj.AssemblyReference.cache
+C:\Users\MSI\source\repos\GestionBibliotecaEs\GestionBibliotecaEs\GestionBiblioteca1\GestionBiblioteca1\GestionBiblioteca\obj\Debug\net8.0-windows\GestionBibliotecaES.Properties.Resources.resources
+C:\Users\MSI\source\repos\GestionBibliotecaEs\GestionBibliotecaEs\GestionBiblioteca1\GestionBiblioteca1\GestionBiblioteca\obj\Debug\net8.0-windows\GestionBiblioteca.Form1.resources
+C:\Users\MSI\source\repos\GestionBibliotecaEs\GestionBibliotecaEs\GestionBiblioteca1\GestionBiblioteca1\GestionBiblioteca\obj\Debug\net8.0-windows\GestionBiblioteca.Pantalla_Admin.resources
+C:\Users\MSI\source\repos\GestionBibliotecaEs\GestionBibliotecaEs\GestionBiblioteca1\GestionBiblioteca1\GestionBiblioteca\obj\Debug\net8.0-windows\GestionBiblioteca.Pantalla_Bibliotecario.resources
+C:\Users\MSI\source\repos\GestionBibliotecaEs\GestionBibliotecaEs\GestionBiblioteca1\GestionBiblioteca1\GestionBiblioteca\obj\Debug\net8.0-windows\GestionBiblioteca.Pantalla_Estudiante.resources
+C:\Users\MSI\source\repos\GestionBibliotecaEs\GestionBibliotecaEs\GestionBiblioteca1\GestionBiblioteca1\GestionBiblioteca\obj\Debug\net8.0-windows\GestionBibliotecaES.csproj.GenerateResource.cache
+C:\Users\MSI\source\repos\GestionBibliotecaEs\GestionBibliotecaEs\GestionBiblioteca1\GestionBiblioteca1\GestionBiblioteca\obj\Debug\net8.0-windows\GestionBibliotecaES.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\MSI\source\repos\GestionBibliotecaEs\GestionBibliotecaEs\GestionBiblioteca1\GestionBiblioteca1\GestionBiblioteca\obj\Debug\net8.0-windows\GestionBibliotecaES.AssemblyInfoInputs.cache
+C:\Users\MSI\source\repos\GestionBibliotecaEs\GestionBibliotecaEs\GestionBiblioteca1\GestionBiblioteca1\GestionBiblioteca\obj\Debug\net8.0-windows\GestionBibliotecaES.AssemblyInfo.cs
+C:\Users\MSI\source\repos\GestionBibliotecaEs\GestionBibliotecaEs\GestionBiblioteca1\GestionBiblioteca1\GestionBiblioteca\obj\Debug\net8.0-windows\GestionBibliotecaES.csproj.CoreCompileInputs.cache
+C:\Users\MSI\source\repos\GestionBibliotecaEs\GestionBibliotecaEs\GestionBiblioteca1\GestionBiblioteca1\GestionBiblioteca\obj\Debug\net8.0-windows\GestionB.D3E00529.Up2Date
+C:\Users\MSI\source\repos\GestionBibliotecaEs\GestionBibliotecaEs\GestionBiblioteca1\GestionBiblioteca1\GestionBiblioteca\obj\Debug\net8.0-windows\GestionBibliotecaES.dll
+C:\Users\MSI\source\repos\GestionBibliotecaEs\GestionBibliotecaEs\GestionBiblioteca1\GestionBiblioteca1\GestionBiblioteca\obj\Debug\net8.0-windows\refint\GestionBibliotecaES.dll
+C:\Users\MSI\source\repos\GestionBibliotecaEs\GestionBibliotecaEs\GestionBiblioteca1\GestionBiblioteca1\GestionBiblioteca\obj\Debug\net8.0-windows\GestionBibliotecaES.pdb
+C:\Users\MSI\source\repos\GestionBibliotecaEs\GestionBibliotecaEs\GestionBiblioteca1\GestionBiblioteca1\GestionBiblioteca\obj\Debug\net8.0-windows\GestionBibliotecaES.genruntimeconfig.cache
+C:\Users\MSI\source\repos\GestionBibliotecaEs\GestionBibliotecaEs\GestionBiblioteca1\GestionBiblioteca1\GestionBiblioteca\obj\Debug\net8.0-windows\ref\GestionBibliotecaES.dll
+C:\Users\Usuario\Desktop\GestionBibliotecaKE\bin\Debug\net8.0-windows\GestionBibliotecaES.exe
+C:\Users\Usuario\Desktop\GestionBibliotecaKE\bin\Debug\net8.0-windows\GestionBibliotecaES.deps.json
+C:\Users\Usuario\Desktop\GestionBibliotecaKE\bin\Debug\net8.0-windows\GestionBibliotecaES.runtimeconfig.json
+C:\Users\Usuario\Desktop\GestionBibliotecaKE\bin\Debug\net8.0-windows\GestionBibliotecaES.dll
+C:\Users\Usuario\Desktop\GestionBibliotecaKE\bin\Debug\net8.0-windows\GestionBibliotecaES.pdb
+C:\Users\Usuario\Desktop\GestionBibliotecaKE\bin\Debug\net8.0-windows\BouncyCastle.Cryptography.dll
+C:\Users\Usuario\Desktop\GestionBibliotecaKE\bin\Debug\net8.0-windows\DnsClient.dll
+C:\Users\Usuario\Desktop\GestionBibliotecaKE\bin\Debug\net8.0-windows\Google.Protobuf.dll
+C:\Users\Usuario\Desktop\GestionBibliotecaKE\bin\Debug\net8.0-windows\K4os.Compression.LZ4.dll
+C:\Users\Usuario\Desktop\GestionBibliotecaKE\bin\Debug\net8.0-windows\K4os.Compression.LZ4.Streams.dll
+C:\Users\Usuario\Desktop\GestionBibliotecaKE\bin\Debug\net8.0-windows\K4os.Hash.xxHash.dll
+C:\Users\Usuario\Desktop\GestionBibliotecaKE\bin\Debug\net8.0-windows\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Users\Usuario\Desktop\GestionBibliotecaKE\bin\Debug\net8.0-windows\MongoDB.Bson.dll
+C:\Users\Usuario\Desktop\GestionBibliotecaKE\bin\Debug\net8.0-windows\MongoDB.Driver.dll
+C:\Users\Usuario\Desktop\GestionBibliotecaKE\bin\Debug\net8.0-windows\MySql.Data.dll
+C:\Users\Usuario\Desktop\GestionBibliotecaKE\bin\Debug\net8.0-windows\SharpCompress.dll
+C:\Users\Usuario\Desktop\GestionBibliotecaKE\bin\Debug\net8.0-windows\Snappier.dll
+C:\Users\Usuario\Desktop\GestionBibliotecaKE\bin\Debug\net8.0-windows\System.IO.Pipelines.dll
+C:\Users\Usuario\Desktop\GestionBibliotecaKE\bin\Debug\net8.0-windows\System.Text.Encodings.Web.dll
+C:\Users\Usuario\Desktop\GestionBibliotecaKE\bin\Debug\net8.0-windows\System.Text.Json.dll
+C:\Users\Usuario\Desktop\GestionBibliotecaKE\bin\Debug\net8.0-windows\ZstdSharp.dll
+C:\Users\Usuario\Desktop\GestionBibliotecaKE\bin\Debug\net8.0-windows\runtimes\win-x64\native\comerr64.dll
+C:\Users\Usuario\Desktop\GestionBibliotecaKE\bin\Debug\net8.0-windows\runtimes\win-x64\native\gssapi64.dll
+C:\Users\Usuario\Desktop\GestionBibliotecaKE\bin\Debug\net8.0-windows\runtimes\win-x64\native\k5sprt64.dll
+C:\Users\Usuario\Desktop\GestionBibliotecaKE\bin\Debug\net8.0-windows\runtimes\win-x64\native\krb5_64.dll
+C:\Users\Usuario\Desktop\GestionBibliotecaKE\bin\Debug\net8.0-windows\runtimes\win-x64\native\krbcc64.dll
+C:\Users\Usuario\Desktop\GestionBibliotecaKE\bin\Debug\net8.0-windows\runtimes\browser\lib\net8.0\System.Text.Encodings.Web.dll
+C:\Users\Usuario\Desktop\GestionBibliotecaKE\obj\Debug\net8.0-windows\GestionBibliotecaES.csproj.AssemblyReference.cache
+C:\Users\Usuario\Desktop\GestionBibliotecaKE\obj\Debug\net8.0-windows\GestionBibliotecaES.Properties.Resources.resources
+C:\Users\Usuario\Desktop\GestionBibliotecaKE\obj\Debug\net8.0-windows\GestionBiblioteca.Form1.resources
+C:\Users\Usuario\Desktop\GestionBibliotecaKE\obj\Debug\net8.0-windows\GestionBiblioteca.Pantalla_Admin.resources
+C:\Users\Usuario\Desktop\GestionBibliotecaKE\obj\Debug\net8.0-windows\GestionBiblioteca.Pantalla_Bibliotecario.resources
+C:\Users\Usuario\Desktop\GestionBibliotecaKE\obj\Debug\net8.0-windows\GestionBiblioteca.Pantalla_Estudiante.resources
+C:\Users\Usuario\Desktop\GestionBibliotecaKE\obj\Debug\net8.0-windows\GestionBibliotecaES.csproj.GenerateResource.cache
+C:\Users\Usuario\Desktop\GestionBibliotecaKE\obj\Debug\net8.0-windows\GestionBibliotecaES.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Usuario\Desktop\GestionBibliotecaKE\obj\Debug\net8.0-windows\GestionBibliotecaES.AssemblyInfoInputs.cache
+C:\Users\Usuario\Desktop\GestionBibliotecaKE\obj\Debug\net8.0-windows\GestionBibliotecaES.AssemblyInfo.cs
+C:\Users\Usuario\Desktop\GestionBibliotecaKE\obj\Debug\net8.0-windows\GestionBibliotecaES.csproj.CoreCompileInputs.cache
+C:\Users\Usuario\Desktop\GestionBibliotecaKE\obj\Debug\net8.0-windows\GestionB.D3E00529.Up2Date
+C:\Users\Usuario\Desktop\GestionBibliotecaKE\obj\Debug\net8.0-windows\GestionBibliotecaES.dll
+C:\Users\Usuario\Desktop\GestionBibliotecaKE\obj\Debug\net8.0-windows\refint\GestionBibliotecaES.dll
+C:\Users\Usuario\Desktop\GestionBibliotecaKE\obj\Debug\net8.0-windows\GestionBibliotecaES.pdb
+C:\Users\Usuario\Desktop\GestionBibliotecaKE\obj\Debug\net8.0-windows\GestionBibliotecaES.genruntimeconfig.cache
+C:\Users\Usuario\Desktop\GestionBibliotecaKE\obj\Debug\net8.0-windows\ref\GestionBibliotecaES.dll
+C:\Users\Usuario\Desktop\GestionBibliotecaKE (2)\GestionBibliotecaKE\bin\Debug\net8.0-windows\GestionBibliotecaES.exe
+C:\Users\Usuario\Desktop\GestionBibliotecaKE (2)\GestionBibliotecaKE\bin\Debug\net8.0-windows\GestionBibliotecaES.deps.json
+C:\Users\Usuario\Desktop\GestionBibliotecaKE (2)\GestionBibliotecaKE\bin\Debug\net8.0-windows\GestionBibliotecaES.runtimeconfig.json
+C:\Users\Usuario\Desktop\GestionBibliotecaKE (2)\GestionBibliotecaKE\bin\Debug\net8.0-windows\GestionBibliotecaES.dll
+C:\Users\Usuario\Desktop\GestionBibliotecaKE (2)\GestionBibliotecaKE\bin\Debug\net8.0-windows\GestionBibliotecaES.pdb
+C:\Users\Usuario\Desktop\GestionBibliotecaKE (2)\GestionBibliotecaKE\bin\Debug\net8.0-windows\BouncyCastle.Cryptography.dll
+C:\Users\Usuario\Desktop\GestionBibliotecaKE (2)\GestionBibliotecaKE\bin\Debug\net8.0-windows\DnsClient.dll
+C:\Users\Usuario\Desktop\GestionBibliotecaKE (2)\GestionBibliotecaKE\bin\Debug\net8.0-windows\Google.Protobuf.dll
+C:\Users\Usuario\Desktop\GestionBibliotecaKE (2)\GestionBibliotecaKE\bin\Debug\net8.0-windows\K4os.Compression.LZ4.dll
+C:\Users\Usuario\Desktop\GestionBibliotecaKE (2)\GestionBibliotecaKE\bin\Debug\net8.0-windows\K4os.Compression.LZ4.Streams.dll
+C:\Users\Usuario\Desktop\GestionBibliotecaKE (2)\GestionBibliotecaKE\bin\Debug\net8.0-windows\K4os.Hash.xxHash.dll
+C:\Users\Usuario\Desktop\GestionBibliotecaKE (2)\GestionBibliotecaKE\bin\Debug\net8.0-windows\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Users\Usuario\Desktop\GestionBibliotecaKE (2)\GestionBibliotecaKE\bin\Debug\net8.0-windows\MongoDB.Bson.dll
+C:\Users\Usuario\Desktop\GestionBibliotecaKE (2)\GestionBibliotecaKE\bin\Debug\net8.0-windows\MongoDB.Driver.dll
+C:\Users\Usuario\Desktop\GestionBibliotecaKE (2)\GestionBibliotecaKE\bin\Debug\net8.0-windows\MySql.Data.dll
+C:\Users\Usuario\Desktop\GestionBibliotecaKE (2)\GestionBibliotecaKE\bin\Debug\net8.0-windows\SharpCompress.dll
+C:\Users\Usuario\Desktop\GestionBibliotecaKE (2)\GestionBibliotecaKE\bin\Debug\net8.0-windows\Snappier.dll
+C:\Users\Usuario\Desktop\GestionBibliotecaKE (2)\GestionBibliotecaKE\bin\Debug\net8.0-windows\System.IO.Pipelines.dll
+C:\Users\Usuario\Desktop\GestionBibliotecaKE (2)\GestionBibliotecaKE\bin\Debug\net8.0-windows\System.Text.Encodings.Web.dll
+C:\Users\Usuario\Desktop\GestionBibliotecaKE (2)\GestionBibliotecaKE\bin\Debug\net8.0-windows\System.Text.Json.dll
+C:\Users\Usuario\Desktop\GestionBibliotecaKE (2)\GestionBibliotecaKE\bin\Debug\net8.0-windows\ZstdSharp.dll
+C:\Users\Usuario\Desktop\GestionBibliotecaKE (2)\GestionBibliotecaKE\bin\Debug\net8.0-windows\runtimes\win-x64\native\comerr64.dll
+C:\Users\Usuario\Desktop\GestionBibliotecaKE (2)\GestionBibliotecaKE\bin\Debug\net8.0-windows\runtimes\win-x64\native\gssapi64.dll
+C:\Users\Usuario\Desktop\GestionBibliotecaKE (2)\GestionBibliotecaKE\bin\Debug\net8.0-windows\runtimes\win-x64\native\k5sprt64.dll
+C:\Users\Usuario\Desktop\GestionBibliotecaKE (2)\GestionBibliotecaKE\bin\Debug\net8.0-windows\runtimes\win-x64\native\krb5_64.dll
+C:\Users\Usuario\Desktop\GestionBibliotecaKE (2)\GestionBibliotecaKE\bin\Debug\net8.0-windows\runtimes\win-x64\native\krbcc64.dll
+C:\Users\Usuario\Desktop\GestionBibliotecaKE (2)\GestionBibliotecaKE\bin\Debug\net8.0-windows\runtimes\browser\lib\net8.0\System.Text.Encodings.Web.dll
+C:\Users\Usuario\Desktop\GestionBibliotecaKE (2)\GestionBibliotecaKE\obj\Debug\net8.0-windows\GestionBibliotecaES.csproj.AssemblyReference.cache
+C:\Users\Usuario\Desktop\GestionBibliotecaKE (2)\GestionBibliotecaKE\obj\Debug\net8.0-windows\GestionBibliotecaES.Properties.Resources.resources
+C:\Users\Usuario\Desktop\GestionBibliotecaKE (2)\GestionBibliotecaKE\obj\Debug\net8.0-windows\GestionBiblioteca.Form1.resources
+C:\Users\Usuario\Desktop\GestionBibliotecaKE (2)\GestionBibliotecaKE\obj\Debug\net8.0-windows\GestionBiblioteca.Pantalla_Admin.resources
+C:\Users\Usuario\Desktop\GestionBibliotecaKE (2)\GestionBibliotecaKE\obj\Debug\net8.0-windows\GestionBiblioteca.Pantalla_Bibliotecario.resources
+C:\Users\Usuario\Desktop\GestionBibliotecaKE (2)\GestionBibliotecaKE\obj\Debug\net8.0-windows\GestionBiblioteca.Pantalla_Estudiante.resources
+C:\Users\Usuario\Desktop\GestionBibliotecaKE (2)\GestionBibliotecaKE\obj\Debug\net8.0-windows\GestionBibliotecaES.csproj.GenerateResource.cache
+C:\Users\Usuario\Desktop\GestionBibliotecaKE (2)\GestionBibliotecaKE\obj\Debug\net8.0-windows\GestionBibliotecaES.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Usuario\Desktop\GestionBibliotecaKE (2)\GestionBibliotecaKE\obj\Debug\net8.0-windows\GestionBibliotecaES.AssemblyInfoInputs.cache
+C:\Users\Usuario\Desktop\GestionBibliotecaKE (2)\GestionBibliotecaKE\obj\Debug\net8.0-windows\GestionBibliotecaES.AssemblyInfo.cs
+C:\Users\Usuario\Desktop\GestionBibliotecaKE (2)\GestionBibliotecaKE\obj\Debug\net8.0-windows\GestionBibliotecaES.csproj.CoreCompileInputs.cache
+C:\Users\Usuario\Desktop\GestionBibliotecaKE (2)\GestionBibliotecaKE\obj\Debug\net8.0-windows\GestionB.D3E00529.Up2Date
+C:\Users\Usuario\Desktop\GestionBibliotecaKE (2)\GestionBibliotecaKE\obj\Debug\net8.0-windows\GestionBibliotecaES.dll
+C:\Users\Usuario\Desktop\GestionBibliotecaKE (2)\GestionBibliotecaKE\obj\Debug\net8.0-windows\refint\GestionBibliotecaES.dll
+C:\Users\Usuario\Desktop\GestionBibliotecaKE (2)\GestionBibliotecaKE\obj\Debug\net8.0-windows\GestionBibliotecaES.pdb
+C:\Users\Usuario\Desktop\GestionBibliotecaKE (2)\GestionBibliotecaKE\obj\Debug\net8.0-windows\GestionBibliotecaES.genruntimeconfig.cache
+C:\Users\Usuario\Desktop\GestionBibliotecaKE (2)\GestionBibliotecaKE\obj\Debug\net8.0-windows\ref\GestionBibliotecaES.dll
+C:\Users\Usuario\Desktop\GestionBibliotecaKE (2)\GestionBibliotecaKE (2)\GestionBibliotecaKE\bin\Debug\net8.0-windows\GestionBibliotecaES.exe
+C:\Users\Usuario\Desktop\GestionBibliotecaKE (2)\GestionBibliotecaKE (2)\GestionBibliotecaKE\bin\Debug\net8.0-windows\GestionBibliotecaES.deps.json
+C:\Users\Usuario\Desktop\GestionBibliotecaKE (2)\GestionBibliotecaKE (2)\GestionBibliotecaKE\bin\Debug\net8.0-windows\GestionBibliotecaES.runtimeconfig.json
+C:\Users\Usuario\Desktop\GestionBibliotecaKE (2)\GestionBibliotecaKE (2)\GestionBibliotecaKE\bin\Debug\net8.0-windows\GestionBibliotecaES.dll
+C:\Users\Usuario\Desktop\GestionBibliotecaKE (2)\GestionBibliotecaKE (2)\GestionBibliotecaKE\bin\Debug\net8.0-windows\GestionBibliotecaES.pdb
+C:\Users\Usuario\Desktop\GestionBibliotecaKE (2)\GestionBibliotecaKE (2)\GestionBibliotecaKE\bin\Debug\net8.0-windows\BouncyCastle.Cryptography.dll
+C:\Users\Usuario\Desktop\GestionBibliotecaKE (2)\GestionBibliotecaKE (2)\GestionBibliotecaKE\bin\Debug\net8.0-windows\DnsClient.dll
+C:\Users\Usuario\Desktop\GestionBibliotecaKE (2)\GestionBibliotecaKE (2)\GestionBibliotecaKE\bin\Debug\net8.0-windows\Google.Protobuf.dll
+C:\Users\Usuario\Desktop\GestionBibliotecaKE (2)\GestionBibliotecaKE (2)\GestionBibliotecaKE\bin\Debug\net8.0-windows\K4os.Compression.LZ4.dll
+C:\Users\Usuario\Desktop\GestionBibliotecaKE (2)\GestionBibliotecaKE (2)\GestionBibliotecaKE\bin\Debug\net8.0-windows\K4os.Compression.LZ4.Streams.dll
+C:\Users\Usuario\Desktop\GestionBibliotecaKE (2)\GestionBibliotecaKE (2)\GestionBibliotecaKE\bin\Debug\net8.0-windows\K4os.Hash.xxHash.dll
+C:\Users\Usuario\Desktop\GestionBibliotecaKE (2)\GestionBibliotecaKE (2)\GestionBibliotecaKE\bin\Debug\net8.0-windows\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Users\Usuario\Desktop\GestionBibliotecaKE (2)\GestionBibliotecaKE (2)\GestionBibliotecaKE\bin\Debug\net8.0-windows\MongoDB.Bson.dll
+C:\Users\Usuario\Desktop\GestionBibliotecaKE (2)\GestionBibliotecaKE (2)\GestionBibliotecaKE\bin\Debug\net8.0-windows\MongoDB.Driver.dll
+C:\Users\Usuario\Desktop\GestionBibliotecaKE (2)\GestionBibliotecaKE (2)\GestionBibliotecaKE\bin\Debug\net8.0-windows\MySql.Data.dll
+C:\Users\Usuario\Desktop\GestionBibliotecaKE (2)\GestionBibliotecaKE (2)\GestionBibliotecaKE\bin\Debug\net8.0-windows\SharpCompress.dll
+C:\Users\Usuario\Desktop\GestionBibliotecaKE (2)\GestionBibliotecaKE (2)\GestionBibliotecaKE\bin\Debug\net8.0-windows\Snappier.dll
+C:\Users\Usuario\Desktop\GestionBibliotecaKE (2)\GestionBibliotecaKE (2)\GestionBibliotecaKE\bin\Debug\net8.0-windows\System.IO.Pipelines.dll
+C:\Users\Usuario\Desktop\GestionBibliotecaKE (2)\GestionBibliotecaKE (2)\GestionBibliotecaKE\bin\Debug\net8.0-windows\System.Text.Encodings.Web.dll
+C:\Users\Usuario\Desktop\GestionBibliotecaKE (2)\GestionBibliotecaKE (2)\GestionBibliotecaKE\bin\Debug\net8.0-windows\System.Text.Json.dll
+C:\Users\Usuario\Desktop\GestionBibliotecaKE (2)\GestionBibliotecaKE (2)\GestionBibliotecaKE\bin\Debug\net8.0-windows\ZstdSharp.dll
+C:\Users\Usuario\Desktop\GestionBibliotecaKE (2)\GestionBibliotecaKE (2)\GestionBibliotecaKE\bin\Debug\net8.0-windows\runtimes\win-x64\native\comerr64.dll
+C:\Users\Usuario\Desktop\GestionBibliotecaKE (2)\GestionBibliotecaKE (2)\GestionBibliotecaKE\bin\Debug\net8.0-windows\runtimes\win-x64\native\gssapi64.dll
+C:\Users\Usuario\Desktop\GestionBibliotecaKE (2)\GestionBibliotecaKE (2)\GestionBibliotecaKE\bin\Debug\net8.0-windows\runtimes\win-x64\native\k5sprt64.dll
+C:\Users\Usuario\Desktop\GestionBibliotecaKE (2)\GestionBibliotecaKE (2)\GestionBibliotecaKE\bin\Debug\net8.0-windows\runtimes\win-x64\native\krb5_64.dll
+C:\Users\Usuario\Desktop\GestionBibliotecaKE (2)\GestionBibliotecaKE (2)\GestionBibliotecaKE\bin\Debug\net8.0-windows\runtimes\win-x64\native\krbcc64.dll
+C:\Users\Usuario\Desktop\GestionBibliotecaKE (2)\GestionBibliotecaKE (2)\GestionBibliotecaKE\bin\Debug\net8.0-windows\runtimes\browser\lib\net8.0\System.Text.Encodings.Web.dll
+C:\Users\Usuario\Desktop\GestionBibliotecaKE (2)\GestionBibliotecaKE (2)\GestionBibliotecaKE\obj\Debug\net8.0-windows\GestionBibliotecaES.csproj.AssemblyReference.cache
+C:\Users\Usuario\Desktop\GestionBibliotecaKE (2)\GestionBibliotecaKE (2)\GestionBibliotecaKE\obj\Debug\net8.0-windows\GestionBibliotecaES.Properties.Resources.resources
+C:\Users\Usuario\Desktop\GestionBibliotecaKE (2)\GestionBibliotecaKE (2)\GestionBibliotecaKE\obj\Debug\net8.0-windows\GestionBiblioteca.Form1.resources
+C:\Users\Usuario\Desktop\GestionBibliotecaKE (2)\GestionBibliotecaKE (2)\GestionBibliotecaKE\obj\Debug\net8.0-windows\GestionBiblioteca.Pantalla_Admin.resources
+C:\Users\Usuario\Desktop\GestionBibliotecaKE (2)\GestionBibliotecaKE (2)\GestionBibliotecaKE\obj\Debug\net8.0-windows\GestionBiblioteca.Pantalla_Bibliotecario.resources
+C:\Users\Usuario\Desktop\GestionBibliotecaKE (2)\GestionBibliotecaKE (2)\GestionBibliotecaKE\obj\Debug\net8.0-windows\GestionBiblioteca.Pantalla_Estudiante.resources
+C:\Users\Usuario\Desktop\GestionBibliotecaKE (2)\GestionBibliotecaKE (2)\GestionBibliotecaKE\obj\Debug\net8.0-windows\GestionBibliotecaES.csproj.GenerateResource.cache
+C:\Users\Usuario\Desktop\GestionBibliotecaKE (2)\GestionBibliotecaKE (2)\GestionBibliotecaKE\obj\Debug\net8.0-windows\GestionBibliotecaES.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Usuario\Desktop\GestionBibliotecaKE (2)\GestionBibliotecaKE (2)\GestionBibliotecaKE\obj\Debug\net8.0-windows\GestionBibliotecaES.AssemblyInfoInputs.cache
+C:\Users\Usuario\Desktop\GestionBibliotecaKE (2)\GestionBibliotecaKE (2)\GestionBibliotecaKE\obj\Debug\net8.0-windows\GestionBibliotecaES.AssemblyInfo.cs
+C:\Users\Usuario\Desktop\GestionBibliotecaKE (2)\GestionBibliotecaKE (2)\GestionBibliotecaKE\obj\Debug\net8.0-windows\GestionBibliotecaES.csproj.CoreCompileInputs.cache
+C:\Users\Usuario\Desktop\GestionBibliotecaKE (2)\GestionBibliotecaKE (2)\GestionBibliotecaKE\obj\Debug\net8.0-windows\GestionB.D3E00529.Up2Date
+C:\Users\Usuario\Desktop\GestionBibliotecaKE (2)\GestionBibliotecaKE (2)\GestionBibliotecaKE\obj\Debug\net8.0-windows\GestionBibliotecaES.dll
+C:\Users\Usuario\Desktop\GestionBibliotecaKE (2)\GestionBibliotecaKE (2)\GestionBibliotecaKE\obj\Debug\net8.0-windows\refint\GestionBibliotecaES.dll
+C:\Users\Usuario\Desktop\GestionBibliotecaKE (2)\GestionBibliotecaKE (2)\GestionBibliotecaKE\obj\Debug\net8.0-windows\GestionBibliotecaES.pdb
+C:\Users\Usuario\Desktop\GestionBibliotecaKE (2)\GestionBibliotecaKE (2)\GestionBibliotecaKE\obj\Debug\net8.0-windows\GestionBibliotecaES.genruntimeconfig.cache
+C:\Users\Usuario\Desktop\GestionBibliotecaKE (2)\GestionBibliotecaKE (2)\GestionBibliotecaKE\obj\Debug\net8.0-windows\ref\GestionBibliotecaES.dll

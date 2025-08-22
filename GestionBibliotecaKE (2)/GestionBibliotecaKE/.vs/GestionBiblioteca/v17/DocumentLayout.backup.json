@@ -1,0 +1,285 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Usuario\\Desktop\\GestionBibliotecaKE (2)\\GestionBibliotecaKE (2)\\GestionBibliotecaKE\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{3301EC7D-555B-444A-83C1-F94C01D2B542}|GestionBibliotecaES.csproj|c:\\users\\usuario\\desktop\\gestionbibliotecake (2)\\gestionbibliotecake (2)\\gestionbibliotecake\\controlador\\sesioncontrolador.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3301EC7D-555B-444A-83C1-F94C01D2B542}|GestionBibliotecaES.csproj|solutionrelative:controlador\\sesioncontrolador.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3301EC7D-555B-444A-83C1-F94C01D2B542}|GestionBibliotecaES.csproj|C:\\Users\\Usuario\\Desktop\\GestionBibliotecaKE (2)\\GestionBibliotecaKE (2)\\GestionBibliotecaKE\\vistas\\pantalla admin.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{3301EC7D-555B-444A-83C1-F94C01D2B542}|GestionBibliotecaES.csproj|solutionrelative:vistas\\pantalla admin.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3301EC7D-555B-444A-83C1-F94C01D2B542}|GestionBibliotecaES.csproj|c:\\users\\usuario\\desktop\\gestionbibliotecake (2)\\gestionbibliotecake (2)\\gestionbibliotecake\\vistas\\login y registro de estudiantes.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3301EC7D-555B-444A-83C1-F94C01D2B542}|GestionBibliotecaES.csproj|solutionrelative:vistas\\login y registro de estudiantes.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3301EC7D-555B-444A-83C1-F94C01D2B542}|GestionBibliotecaES.csproj|c:\\users\\usuario\\desktop\\gestionbibliotecake (2)\\gestionbibliotecake (2)\\gestionbibliotecake\\vistas\\login y registro de estudiantes.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{3301EC7D-555B-444A-83C1-F94C01D2B542}|GestionBibliotecaES.csproj|solutionrelative:vistas\\login y registro de estudiantes.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3301EC7D-555B-444A-83C1-F94C01D2B542}|GestionBibliotecaES.csproj|c:\\users\\usuario\\desktop\\gestionbibliotecake (2)\\gestionbibliotecake (2)\\gestionbibliotecake\\vistas\\pantalla admin.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3301EC7D-555B-444A-83C1-F94C01D2B542}|GestionBibliotecaES.csproj|solutionrelative:vistas\\pantalla admin.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3301EC7D-555B-444A-83C1-F94C01D2B542}|GestionBibliotecaES.csproj|c:\\users\\usuario\\desktop\\gestionbibliotecake (2)\\gestionbibliotecake (2)\\gestionbibliotecake\\vistas\\pantalla bibliotecario.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3301EC7D-555B-444A-83C1-F94C01D2B542}|GestionBibliotecaES.csproj|solutionrelative:vistas\\pantalla bibliotecario.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3301EC7D-555B-444A-83C1-F94C01D2B542}|GestionBibliotecaES.csproj|c:\\users\\usuario\\desktop\\gestionbibliotecake (2)\\gestionbibliotecake (2)\\gestionbibliotecake\\vistas\\pantalla bibliotecario.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{3301EC7D-555B-444A-83C1-F94C01D2B542}|GestionBibliotecaES.csproj|solutionrelative:vistas\\pantalla bibliotecario.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3301EC7D-555B-444A-83C1-F94C01D2B542}|GestionBibliotecaES.csproj|c:\\users\\usuario\\desktop\\gestionbibliotecake (2)\\gestionbibliotecake (2)\\gestionbibliotecake\\controlador\\usuariocontrolador.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3301EC7D-555B-444A-83C1-F94C01D2B542}|GestionBibliotecaES.csproj|solutionrelative:controlador\\usuariocontrolador.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3301EC7D-555B-444A-83C1-F94C01D2B542}|GestionBibliotecaES.csproj|c:\\users\\usuario\\desktop\\gestionbibliotecake (2)\\gestionbibliotecake (2)\\gestionbibliotecake\\controlador\\librocontrolador.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3301EC7D-555B-444A-83C1-F94C01D2B542}|GestionBibliotecaES.csproj|solutionrelative:controlador\\librocontrolador.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3301EC7D-555B-444A-83C1-F94C01D2B542}|GestionBibliotecaES.csproj|c:\\users\\usuario\\desktop\\gestionbibliotecake (2)\\gestionbibliotecake (2)\\gestionbibliotecake\\modelo\\conexion.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3301EC7D-555B-444A-83C1-F94C01D2B542}|GestionBibliotecaES.csproj|solutionrelative:modelo\\conexion.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3301EC7D-555B-444A-83C1-F94C01D2B542}|GestionBibliotecaES.csproj|c:\\users\\usuario\\desktop\\gestionbibliotecake (2)\\gestionbibliotecake (2)\\gestionbibliotecake\\controlador\\devolucioncontrolador.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3301EC7D-555B-444A-83C1-F94C01D2B542}|GestionBibliotecaES.csproj|solutionrelative:controlador\\devolucioncontrolador.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3301EC7D-555B-444A-83C1-F94C01D2B542}|GestionBibliotecaES.csproj|c:\\users\\usuario\\desktop\\gestionbibliotecake (2)\\gestionbibliotecake (2)\\gestionbibliotecake\\controlador\\prestamoscontrolador.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3301EC7D-555B-444A-83C1-F94C01D2B542}|GestionBibliotecaES.csproj|solutionrelative:controlador\\prestamoscontrolador.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3301EC7D-555B-444A-83C1-F94C01D2B542}|GestionBibliotecaES.csproj|c:\\users\\usuario\\desktop\\gestionbibliotecake (2)\\gestionbibliotecake (2)\\gestionbibliotecake\\modelo\\prestamos.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3301EC7D-555B-444A-83C1-F94C01D2B542}|GestionBibliotecaES.csproj|solutionrelative:modelo\\prestamos.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\Usuario\\Desktop\\GestionBibliotecaKE (2)\\GestionBibliotecaKE (2)\\GestionBibliotecaKE\\Controlador\\SolicitudPrestamoControlador.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Controlador\\SolicitudPrestamoControlador.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3301EC7D-555B-444A-83C1-F94C01D2B542}|GestionBibliotecaES.csproj|c:\\users\\usuario\\desktop\\gestionbibliotecake (2)\\gestionbibliotecake (2)\\gestionbibliotecake\\vistas\\pantalla estudiante.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3301EC7D-555B-444A-83C1-F94C01D2B542}|GestionBibliotecaES.csproj|solutionrelative:vistas\\pantalla estudiante.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 379,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "SesionControlador.cs",
+              "DocumentMoniker": "C:\\Users\\Usuario\\Desktop\\GestionBibliotecaKE (2)\\GestionBibliotecaKE (2)\\GestionBibliotecaKE\\Controlador\\SesionControlador.cs",
+              "RelativeDocumentMoniker": "Controlador\\SesionControlador.cs",
+              "ToolTip": "C:\\Users\\Usuario\\Desktop\\GestionBibliotecaKE (2)\\GestionBibliotecaKE (2)\\GestionBibliotecaKE\\Controlador\\SesionControlador.cs",
+              "RelativeToolTip": "Controlador\\SesionControlador.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-22T14:35:30.308Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{eefa5220-e298-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{34e76e81-ee4a-11d0-ae2e-00a0c90fffc3}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Login y Registro de Estudiantes.cs",
+              "DocumentMoniker": "C:\\Users\\Usuario\\Desktop\\GestionBibliotecaKE (2)\\GestionBibliotecaKE (2)\\GestionBibliotecaKE\\Vistas\\Login y Registro de Estudiantes.cs",
+              "RelativeDocumentMoniker": "Vistas\\Login y Registro de Estudiantes.cs",
+              "ToolTip": "C:\\Users\\Usuario\\Desktop\\GestionBibliotecaKE (2)\\GestionBibliotecaKE (2)\\GestionBibliotecaKE\\Vistas\\Login y Registro de Estudiantes.cs",
+              "RelativeToolTip": "Vistas\\Login y Registro de Estudiantes.cs",
+              "ViewState": "AgIAABsAAAAAAAAAAAAYwAYAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-22T14:30:32.55Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Login y Registro de Estudiantes.cs [Dise\u00F1o]",
+              "DocumentMoniker": "C:\\Users\\Usuario\\Desktop\\GestionBibliotecaKE (2)\\GestionBibliotecaKE (2)\\GestionBibliotecaKE\\Vistas\\Login y Registro de Estudiantes.cs",
+              "RelativeDocumentMoniker": "Vistas\\Login y Registro de Estudiantes.cs",
+              "ToolTip": "C:\\Users\\Usuario\\Desktop\\GestionBibliotecaKE (2)\\GestionBibliotecaKE (2)\\GestionBibliotecaKE\\Vistas\\Login y Registro de Estudiantes.cs [Dise\u00F1o]",
+              "RelativeToolTip": "Vistas\\Login y Registro de Estudiantes.cs [Dise\u00F1o]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-22T14:30:30.669Z",
+              "EditorCaption": " [Dise\u00F1o]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Pantalla Bibliotecario.cs [Dise\u00F1o]",
+              "DocumentMoniker": "C:\\Users\\Usuario\\Desktop\\GestionBibliotecaKE (2)\\GestionBibliotecaKE (2)\\GestionBibliotecaKE\\Vistas\\Pantalla Bibliotecario.cs",
+              "RelativeDocumentMoniker": "Vistas\\Pantalla Bibliotecario.cs",
+              "ToolTip": "C:\\Users\\Usuario\\Desktop\\GestionBibliotecaKE (2)\\GestionBibliotecaKE (2)\\GestionBibliotecaKE\\Vistas\\Pantalla Bibliotecario.cs [Dise\u00F1o]",
+              "RelativeToolTip": "Vistas\\Pantalla Bibliotecario.cs [Dise\u00F1o]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-22T14:01:37.936Z",
+              "EditorCaption": " [Dise\u00F1o]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "LibroControlador.cs",
+              "DocumentMoniker": "C:\\Users\\Usuario\\Desktop\\GestionBibliotecaKE (2)\\GestionBibliotecaKE (2)\\GestionBibliotecaKE\\Controlador\\LibroControlador.cs",
+              "RelativeDocumentMoniker": "Controlador\\LibroControlador.cs",
+              "ToolTip": "C:\\Users\\Usuario\\Desktop\\GestionBibliotecaKE (2)\\GestionBibliotecaKE (2)\\GestionBibliotecaKE\\Controlador\\LibroControlador.cs",
+              "RelativeToolTip": "Controlador\\LibroControlador.cs",
+              "ViewState": "AgIAADUAAAAAAAAAAAAYwEgAAABCAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-22T13:33:11.715Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Pantalla Admin.cs [Dise\u00F1o]",
+              "DocumentMoniker": "C:\\Users\\Usuario\\Desktop\\GestionBibliotecaKE (2)\\GestionBibliotecaKE (2)\\GestionBibliotecaKE\\Vistas\\Pantalla Admin.cs",
+              "RelativeDocumentMoniker": "Vistas\\Pantalla Admin.cs",
+              "ToolTip": "C:\\Users\\Usuario\\Desktop\\GestionBibliotecaKE (2)\\GestionBibliotecaKE (2)\\GestionBibliotecaKE\\Vistas\\Pantalla Admin.cs [Dise\u00F1o]",
+              "RelativeToolTip": "Vistas\\Pantalla Admin.cs [Dise\u00F1o]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-22T04:21:35.648Z",
+              "EditorCaption": " [Dise\u00F1o]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "DevolucionControlador.cs",
+              "DocumentMoniker": "C:\\Users\\Usuario\\Desktop\\GestionBibliotecaKE (2)\\GestionBibliotecaKE (2)\\GestionBibliotecaKE\\Controlador\\DevolucionControlador.cs",
+              "RelativeDocumentMoniker": "Controlador\\DevolucionControlador.cs",
+              "ToolTip": "C:\\Users\\Usuario\\Desktop\\GestionBibliotecaKE (2)\\GestionBibliotecaKE (2)\\GestionBibliotecaKE\\Controlador\\DevolucionControlador.cs",
+              "RelativeToolTip": "Controlador\\DevolucionControlador.cs",
+              "ViewState": "AgIAABgAAAAAAAAAAAApwCkAAAAYAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-22T03:56:07.977Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "Prestamos.cs",
+              "DocumentMoniker": "C:\\Users\\Usuario\\Desktop\\GestionBibliotecaKE (2)\\GestionBibliotecaKE (2)\\GestionBibliotecaKE\\Modelo\\Prestamos.cs",
+              "RelativeDocumentMoniker": "Modelo\\Prestamos.cs",
+              "ToolTip": "C:\\Users\\Usuario\\Desktop\\GestionBibliotecaKE (2)\\GestionBibliotecaKE (2)\\GestionBibliotecaKE\\Modelo\\Prestamos.cs",
+              "RelativeToolTip": "Modelo\\Prestamos.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAABAAAAAzAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-22T02:33:32.197Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "SolicitudPrestamoControlador.cs",
+              "DocumentMoniker": "C:\\Users\\Usuario\\Desktop\\GestionBibliotecaKE (2)\\GestionBibliotecaKE (2)\\GestionBibliotecaKE\\Controlador\\SolicitudPrestamoControlador.cs",
+              "RelativeDocumentMoniker": "Controlador\\SolicitudPrestamoControlador.cs",
+              "ToolTip": "C:\\Users\\Usuario\\Desktop\\GestionBibliotecaKE (2)\\GestionBibliotecaKE (2)\\GestionBibliotecaKE\\Controlador\\SolicitudPrestamoControlador.cs",
+              "RelativeToolTip": "Controlador\\SolicitudPrestamoControlador.cs",
+              "ViewState": "AgIAAAkAAAAAAAAAAAD4vx0AAAA+AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-22T02:27:04.458Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "UsuarioControlador.cs",
+              "DocumentMoniker": "C:\\Users\\Usuario\\Desktop\\GestionBibliotecaKE (2)\\GestionBibliotecaKE (2)\\GestionBibliotecaKE\\Controlador\\UsuarioControlador.cs",
+              "RelativeDocumentMoniker": "Controlador\\UsuarioControlador.cs",
+              "ToolTip": "C:\\Users\\Usuario\\Desktop\\GestionBibliotecaKE (2)\\GestionBibliotecaKE (2)\\GestionBibliotecaKE\\Controlador\\UsuarioControlador.cs",
+              "RelativeToolTip": "Controlador\\UsuarioControlador.cs",
+              "ViewState": "AgIAAJUAAAAAAAAAAAAqwJ8AAABFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-22T01:21:05.22Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "Pantalla Estudiante.cs",
+              "DocumentMoniker": "C:\\Users\\Usuario\\Desktop\\GestionBibliotecaKE (2)\\GestionBibliotecaKE (2)\\GestionBibliotecaKE\\Vistas\\Pantalla Estudiante.cs",
+              "RelativeDocumentMoniker": "Vistas\\Pantalla Estudiante.cs",
+              "ToolTip": "C:\\Users\\Usuario\\Desktop\\GestionBibliotecaKE (2)\\GestionBibliotecaKE (2)\\GestionBibliotecaKE\\Vistas\\Pantalla Estudiante.cs",
+              "RelativeToolTip": "Vistas\\Pantalla Estudiante.cs",
+              "ViewState": "AgIAAH8BAAAAAAAAAAAmwAoAAAAgAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-22T00:13:12.04Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Pantalla Admin.cs",
+              "DocumentMoniker": "C:\\Users\\Usuario\\Desktop\\GestionBibliotecaKE (2)\\GestionBibliotecaKE (2)\\GestionBibliotecaKE\\Vistas\\Pantalla Admin.cs",
+              "RelativeDocumentMoniker": "Vistas\\Pantalla Admin.cs",
+              "ToolTip": "C:\\Users\\Usuario\\Desktop\\GestionBibliotecaKE (2)\\GestionBibliotecaKE (2)\\GestionBibliotecaKE\\Vistas\\Pantalla Admin.cs",
+              "RelativeToolTip": "Vistas\\Pantalla Admin.cs",
+              "ViewState": "AgIAAKoAAAAAAAAAAAAkwM4AAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-22T00:12:47.158Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "Conexion.cs",
+              "DocumentMoniker": "C:\\Users\\Usuario\\Desktop\\GestionBibliotecaKE (2)\\GestionBibliotecaKE (2)\\GestionBibliotecaKE\\Modelo\\Conexion.cs",
+              "RelativeDocumentMoniker": "Modelo\\Conexion.cs",
+              "ToolTip": "C:\\Users\\Usuario\\Desktop\\GestionBibliotecaKE (2)\\GestionBibliotecaKE (2)\\GestionBibliotecaKE\\Modelo\\Conexion.cs",
+              "RelativeToolTip": "Modelo\\Conexion.cs",
+              "ViewState": "AgIAACoAAAAAAAAAAAAAAD4AAAARAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-14T13:17:24.224Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Pantalla Bibliotecario.cs",
+              "DocumentMoniker": "C:\\Users\\Usuario\\Desktop\\GestionBibliotecaKE (2)\\GestionBibliotecaKE (2)\\GestionBibliotecaKE\\Vistas\\Pantalla Bibliotecario.cs",
+              "RelativeDocumentMoniker": "Vistas\\Pantalla Bibliotecario.cs",
+              "ToolTip": "C:\\Users\\Usuario\\Desktop\\GestionBibliotecaKE (2)\\GestionBibliotecaKE (2)\\GestionBibliotecaKE\\Vistas\\Pantalla Bibliotecario.cs",
+              "RelativeToolTip": "Vistas\\Pantalla Bibliotecario.cs",
+              "ViewState": "AgIAAKwCAAAAAAAAAAAwwL4CAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-13T18:00:52.358Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "PrestamosControlador.cs",
+              "DocumentMoniker": "C:\\Users\\Usuario\\Desktop\\GestionBibliotecaKE (2)\\GestionBibliotecaKE (2)\\GestionBibliotecaKE\\Controlador\\PrestamosControlador.cs",
+              "RelativeDocumentMoniker": "Controlador\\PrestamosControlador.cs",
+              "ToolTip": "C:\\Users\\Usuario\\Desktop\\GestionBibliotecaKE (2)\\GestionBibliotecaKE (2)\\GestionBibliotecaKE\\Controlador\\PrestamosControlador.cs",
+              "RelativeToolTip": "Controlador\\PrestamosControlador.cs",
+              "ViewState": "AgIAACoAAAAAAAAAAAAlwGkAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-13T17:11:46.433Z"
+            }
+          ]
+        },
+        {
+          "DockedWidth": 15,
+          "SelectedChildIndex": -1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{40ea2e6b-2121-4bb8-a43e-c83c04b51041}"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
