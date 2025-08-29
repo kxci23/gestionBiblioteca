@@ -226,6 +226,23 @@ namespace GestionBiblioteca
                 return;
             }
 
+            // Validación de fechas
+            DateTime hoy = DateTime.Today;
+            
+            // La fecha de préstamo debe ser hoy (mismo día)
+            if (fechaPrestamo.Date != hoy)
+            {
+                MessageBox.Show("Fecha incorrecta. La fecha de préstamo debe ser el día de hoy.", "Fecha incorrecta", MessageBoxButtons.OK, MessageBoxIcon.Warning);
+                return;
+            }
+
+            // La fecha de devolución debe ser hoy o posterior (no puede ser anterior)
+            if (fechaDevolucion.Date < hoy)
+            {
+                MessageBox.Show("Fecha incorrecta. La fecha de devolución no puede ser anterior al día de hoy.", "Fecha incorrecta", MessageBoxButtons.OK, MessageBoxIcon.Warning);
+                return;
+            }
+
             try
             {
                 // 1. Verifica el stock actual
